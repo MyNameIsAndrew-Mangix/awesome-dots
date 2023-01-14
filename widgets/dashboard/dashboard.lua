@@ -1,0 +1,2 @@
+local wibox = require ("wibox")
+
